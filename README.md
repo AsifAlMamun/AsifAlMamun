@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AsifAlMamun
-- 👀 I’m interested something new learning promamming language always.
+- 👀 I’m interested something new leraning always as a web developer.
 - 🌱 I’m currently learning Nest.js & Next.js.
